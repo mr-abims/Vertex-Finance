@@ -6,4 +6,5 @@ verbosity= 5
 auto_detect_solc = true   
 broadcast= 'deploy.txt'
 optimizer_runs = 99999
+auto_detect_solc = true
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config

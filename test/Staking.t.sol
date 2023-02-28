@@ -27,7 +27,7 @@ contract StakingTest is Test {
         address staker1 = mkaddr("staker1");
         address staker2 = mkaddr("staker2");
         //send some lptokens to staker1 and staker2
-
+        mWAKANDA.get();
         mWAKANDA.transfer(staker1, 100e18);
         mWAKANDA.transfer(staker2, 100e18);
 

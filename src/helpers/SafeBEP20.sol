@@ -4,7 +4,6 @@ pragma solidity ^0.6.0;
 import "./IBEP20.sol";
 import "@openzeppelin/utils/Address.sol";
 import "@openzeppelin/math/SafeMath.sol";
-
 /**
  * @title SafeBEP20
  * @dev Wrappers around BEP20 operations that throw on failure (when the token
